@@ -1,3 +1,7 @@
+# James Alan Bush
+# CIS261002VA016-1236-001: Object-Oriented Computer Prog
+# GuessingGame
+
 favorite_food = input("What's my favorite food? ")
 
 if favorite_food == "Pizza":
